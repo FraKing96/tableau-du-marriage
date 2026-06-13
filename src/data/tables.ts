@@ -10,8 +10,8 @@ export type Table = {
 
 export const weddingInfo = {
   couple: "Nicole & Francesco",
-  date: "14 Giugno 2026",
-  venue: "Villa delle Rose",
+  date: "10 Giugno 2026",
+  venue: "Cascina di Mezzo",
   subtitle: "Tableau du Mariage",
 };
 
